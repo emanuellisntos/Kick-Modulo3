@@ -1,6 +1,6 @@
 <h1>Desafio 10</h1>
 
-<b>Objetivo:</b> Desenvolvimento de uma página que daria a opção do usuário mudar a cor de fundo da mesma.
+<b>Objetivo:</b> Desenvolvimento de uma página em que o usuário poderia mudar a cor de fundo da mesma.
 
 <b>Tecnologias usadas:</b> HTML, CSS e JavaScript.
 
