@@ -1,4 +1,4 @@
-body h1, h3, p {  
+body h1, h3 {  
     font-family: Arial, sans-serif;
     font-weight: normal;
 }
@@ -23,8 +23,6 @@ button {
     cursor: pointer;
 }
 
-button:active {
-    background-color: black;
-    color: white;
+button:hover {
+    background-color: #dfdddd;
 }
-
