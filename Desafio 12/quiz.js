@@ -13,7 +13,7 @@ function exibirPergunta(pergunta) {
 
 function verificarResposta(resposta, respostaCorreta) {
     if (resposta.toLowerCase() === respostaCorreta) {
-        alert('Resposta correta!');
+        alert('Parabéns! Resposta correta.');
         pontuacao++;
     } else {
         alert('Resposta incorreta.');
