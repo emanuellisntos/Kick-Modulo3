@@ -16,7 +16,7 @@ let indiceSubstituicao = 0; // Índice para controlar a substituição
 
 // Função para exibir a lista de desenhos animados
 function exibirLista() {
-    const lista = document.getElementById('lista-desenhos'); // Erro 3. A função correta é .getElementByClassName() e não apenas getElementByClass();
+    const lista = document.getElementById('lista-desenhos'); // Erro 3. A função correta a ser usada é .getElementById() e não .getElementByClass();
     lista.innerHTML = ''; // Limpa a lista antes de preenchê-la novamente
 
     desenhosAnimados.forEach(desenho => {
